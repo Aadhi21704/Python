@@ -7,3 +7,12 @@ FORMULA : nCr = n!/((n-r)!*r!)
 Since we can't use the '!' character as used in the formula,
 we can make use of the function 'factorial' and proceed further.
 We're substituting 'n' with 'i', and 'r' with 'j'.
+
+#EQUILATERAL TRINAGLE
+
+Creating a function with a parameter 'n'
+The outer loop is used for the number of rows.
+The inner loop is used for the number of columns.
+The '\n' is used to print a new line from 0 to n number of times.
+The number of rows for the triangle is gotten as input from the user.
+Finally, the function is called.
