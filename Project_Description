@@ -1,0 +1,9 @@
+# PASCAL's TRIANGLE_Description
+
+The number of rows are gotten as input from the user.
+The 'math' library is imported in this project.
+The function 'factorial' is used in order to follow the formula.
+FORMULA : nCr = n!/((n-r)!*r!)
+Since we can't use the '!' character as used in the formula,
+we can make use of the function 'factorial' and proceed further.
+We're substituting 'n' with 'i', and 'r' with 'j'.
